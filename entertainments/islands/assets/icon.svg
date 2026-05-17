@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <circle cx="18" cy="6" r="3"/>
+  <!-- Island -->
+  <path d="M5 18c0-3 3-5 7-5s7 2 7 5"/>
+  <!-- Waves -->
+  <path d="M2 18c2 0 2 1 4 1s2-1 4-1 2 1 4 1 2-1 4-1 2 1 4 1"/>
+  <path d="M2 21c2 0 2 1 4 1s2-1 4-1 2 1 4 1 2-1 4-1 2 1 4 1"/>
+</svg>
